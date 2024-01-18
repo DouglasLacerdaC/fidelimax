@@ -1,12 +1,9 @@
-"use client"
-
 import { Control, Controller, FieldValues } from "react-hook-form";
 
 import { Checkbox } from "@/components/ui/checkbox";
 import { CheckboxRounded } from "@/components/ui/checkbox-rounded";
 import { Legend } from "@/components/ui/legend";
 import { QuestionType } from "@/entities/questions";
-import { useEffect, useState } from "react";
 
 interface MultipleChoicesProps {
   question: QuestionType,
