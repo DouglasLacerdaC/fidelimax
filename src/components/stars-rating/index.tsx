@@ -18,7 +18,7 @@ export function StarsRating({ defaultValue, onSelected }: StarsRatingProps) {
   }
 
   return (
-    <div className="w-fit flex flex-wrap gap-4">
+    <div className="w-fit flex flex-wrap justify-center sm:justify-start gap-4">
       {Array.from({ length: 5 }).map((_, index) => (
         <div className="cursor-pointer" key={index} onClick={() => updateQuantityStars(index + 1)}>
           <Star
