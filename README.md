@@ -1,5 +1,5 @@
 # Desafio Front-end
-Minha resolução proposto pela da empresa @fidelimax. O projeto tem como objetivo responder perguntas dinâmicas utilizando NextJS e tailwindCSS. 🚀 <br><br>
+Minha resolução do desafio proposto pela empresa @fidelimax. O projeto tem como objetivo responder perguntas dinâmicas utilizando NextJS e TailwindCSS. 🚀 <br><br>
 
 ![Screenshot](./public/capa.png)
 
@@ -8,7 +8,7 @@ Minha resolução proposto pela da empresa @fidelimax. O projeto tem como objeti
 - ✔️ React Hook Form - Lib para controle de formulários
 - ✔️ Typescript - Superset do Javascript
 - ✔️ Lucide Icons - Biblioteca de ícones
-- ✔️ axios - Comunicação de dados
+- ✔️ Axios - Comunicação de dados
 
 ## 📦️ Pré-Requisitos
 Antes de começar você vai precisar ter instalado na sua máquina as ferramentas [Git](https://git-scm.com/) e [Node](https://nodejs.org/en/download/).
